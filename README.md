@@ -1,6 +1,6 @@
 # appJar  
 
-Simple tKinter GUIs in Python  
+Simple-to-use TKinter GUIs in Python 3.
 
 ---
 
@@ -28,7 +28,7 @@ Download Here: https://github.com/jarvisteach/appJar/raw/appJar/releases/appJar.
 
 Docs here: http://appJar.info
 
-This provides a library for implementing easy GUIs...
+This provides a library for implementing GUIs quite easily...
 
 ### Installation:
  - Download the ZIP file (click the big green button) & unzip it
